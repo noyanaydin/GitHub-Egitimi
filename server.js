@@ -5,7 +5,7 @@ const express = require('express');
 var port = 3000;
 var app = express();
 var wikiUrls1 = "";
-// Warte67 Branch'ine aittir
+var Warte = "Warte12345";
 rp(url)
   .then(function(html){
     //success!
