@@ -5,7 +5,7 @@ const express = require('express');
 var port = 3000;
 var app = express();
 var wikiUrls1 = "";
-var conflictVar = "Warte123456"
+var conflictVar = "Warte 12345";
 rp(url)
   .then(function(html){
     //success!
