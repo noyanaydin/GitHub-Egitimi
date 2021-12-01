@@ -5,7 +5,7 @@ const express = require('express');
 var port = 3000;
 var app = express();
 var wikiUrls1 = "";
-var Warte = "Warte123456";
+var Warte123 = "WarteWarte123";
 rp(url)
   .then(function(html){
     //success!
